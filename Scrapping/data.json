@@ -1,0 +1,908 @@
+[
+  {
+    "uuid": "ddd15b78-8ba7-4b53-bba9-6dae8fd64a8d",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.24VLFODZ8UTAW",
+        "location": {
+          "latitude": 1.28297452,
+          "longitude": 103.8511924
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "#B1-11",
+        "l1": "Downtown Core",
+        "postcode": "048619",
+        "name": "Stuff'd - Republic Plaza",
+        "address": "9 Raffles Quay Raffles Place, #B1-11, Singapore, 048619",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2VKLAC3NLNHNT/photos/5f0a2d252d2d47a696114df19e728257_1625204021743839971.jpg",
+        "iconHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2VKLAC3NLNHNT/icons/7859a446362d4c0b98b4698aac127e69_1624976740050300104.jpeg",
+        "openingHours": "{\"friday\":[[\"11:00\",\"19:30\"]],\"monday\":[[\"11:00\",\"19:30\"]],\"thursday\":[[\"11:00\",\"19:30\"]],\"tuesday\":[[\"11:00\",\"19:30\"]],\"wednesday\":[[\"11:00\",\"19:30\"]]}",
+        "score": 6205.9766,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 6205.9766,
+            "es_score": 0,
+            "generic_score": 0.7315386857194085,
+            "h": -0.000024413589364844903,
+            "h2": 0.00005908244957561176,
+            "h2_raw": 0.00005908244957561176,
+            "h_raw": 0.000059084194977843426,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {
+          "dropoffCount": 1
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "943b13d2-ffa9-47e1-be15-3034922cdd94",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.1POTZUABRX4HW",
+        "location": {
+          "latitude": 1.2933747544825138,
+          "longitude": 103.85783819627949
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "#01-357/359/361/362/363/364",
+        "l1": "Downtown Core",
+        "postcode": "038983",
+        "name": "Shake Shack - Suntec City Mall",
+        "address": "3 Temasek Boulevard, #01-357/359/361/362/363/364, Singapore, 038983",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2AZGFLKVNDCTA/photos/7dc193e5bce8418dabc483701ad9d4f2_1662003235545563121.jpg",
+        "iconHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2AZGFLKVNDCTA/icons/25e7a4ea724f41d3b55b661880114dc1_1608176567716720155.jpeg",
+        "openingHours": "{\"friday\":[[\"10:00\",\"21:45\"]],\"monday\":[[\"10:00\",\"20:55\"]],\"saturday\":[[\"10:00\",\"21:45\"]],\"sunday\":[[\"10:00\",\"21:45\"]],\"thursday\":[[\"10:00\",\"21:45\"]],\"tuesday\":[[\"10:00\",\"21:45\"]],\"wednesday\":[[\"10:00\",\"21:45\"]]}",
+        "score": 21071.826,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 21071.826,
+            "es_score": 0,
+            "generic_score": 0.734766319247802,
+            "h": -0.002308121997542174,
+            "h2": 0.005570424386146366,
+            "h2_raw": 0.005570424386146366,
+            "h_raw": 0.005585968048262764,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {
+          "pickupCount": 119,
+          "dropoffCount": 81
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "c894a634-3605-4480-bce9-6c337da06a73",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.2G27WPK0FZWRZ",
+        "location": {
+          "latitude": 1.3031071,
+          "longitude": 103.8585535
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "postcode": "199078",
+        "state": "Singapore",
+        "name": "11 Jln Pisang, Hjh Maimunah Restaurant",
+        "address": "11 Jln Pisang, Singapore, 199078",
+        "businessType": "residential",
+        "cityID": "6",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2VKLAC3NLNHNT/hero/5f0a2d252d2d47a696114df19e728257_1625204021743839971.jpg",
+        "countryID": "4",
+        "openingHours": "{}",
+        "score": 16171.777,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 1
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 16171.777,
+            "es_score": 0,
+            "generic_score": 0.7089623085302541,
+            "h": -0.4132,
+            "h2": 0.6931471805599453,
+            "h2_raw": 0.6931471805599453,
+            "h_raw": 1,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.527511111111111,
+            "s_raw": 0.6355555555555555
+          }
+        },
+        "Popularity": {
+          "pickupCount": 254,
+          "dropoffCount": 347
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "26910cbb-377d-44ac-b783-e4e2950e6db5",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.1TC8L4XPSCXCA",
+        "location": {
+          "latitude": 1.299897009115412,
+          "longitude": 103.85579630192689
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "#B1-K3",
+        "l1": "Downtown Core",
+        "postcode": "188024",
+        "name": "WOK HEY - Bugis Junction",
+        "address": "230 Victoria Street, #B1-K3, Singapore, 188024",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2VKJ3UXL6JTDA/photos/c5180781d3524cf591a1a2b48e69b1cc_1625019347281916515.jpeg",
+        "iconHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2VKJ3UXL6JTDA/icons/b849b440b73d40498aac12dd7acdfeee_1625019357698565558.jpeg",
+        "openingHours": "{\"friday\":[[\"11:00\",\"21:30\"]],\"monday\":[[\"11:00\",\"21:30\"]],\"saturday\":[[\"11:00\",\"21:30\"]],\"sunday\":[[\"11:00\",\"21:30\"]],\"thursday\":[[\"11:00\",\"21:30\"]],\"tuesday\":[[\"11:00\",\"21:30\"]],\"wednesday\":[[\"11:00\",\"21:30\"]]}",
+        "score": 9520.404,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 9520.404,
+            "es_score": 0,
+            "generic_score": 0.7315040168591977,
+            "h": 0,
+            "h2": 0,
+            "h2_raw": 0,
+            "h_raw": 0,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {}
+      }
+    ]
+  },
+  {
+    "uuid": "9eb42d50-8336-4a83-b8be-22b644439012",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.191PKHLJZ2KD1",
+        "location": {
+          "latitude": 1.300528,
+          "longitude": 103.845444
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "01-23",
+        "l1": "Museum",
+        "postcode": "238839",
+        "name": "Toast Box - Plaza Singapura",
+        "address": "68 Orchard Rd, 01-23, Singapore, 238839",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/SGDD11204/photos/29bdb7adfb7e46d2bf4f5ad6fd24c99b_1663825669147074119.jpg",
+        "openingHours": "{\"friday\":[[\"08:30\",\"18:00\"]],\"monday\":[[\"08:30\",\"18:00\"]],\"saturday\":[[\"08:30\",\"18:00\"]],\"sunday\":[[\"08:30\",\"18:00\"]],\"thursday\":[[\"08:30\",\"18:00\"]],\"tuesday\":[[\"08:30\",\"18:00\"]],\"wednesday\":[[\"08:30\",\"18:00\"]]}",
+        "score": 12196.216,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 12196.216,
+            "es_score": 0,
+            "generic_score": 0.7439041427523827,
+            "h": -0.008892411484754982,
+            "h2": 0.021292537377939905,
+            "h2_raw": 0.021292537377939905,
+            "h_raw": 0.021520840960200828,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {
+          "pickupCount": 748,
+          "dropoffCount": 75
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "89a7f430-a5d0-4ef3-94b7-99e9f6d6d1ac",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.30D6PMRDYZITC",
+        "location": {
+          "latitude": 1.2838134962,
+          "longitude": 103.8526774
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "11",
+        "postcode": "049317",
+        "state": "Singapore",
+        "name": "KOI cafe | The Arcade",
+        "address": "11 Collyer Quay, Singapore, 049317",
+        "businessType": "shopping mall/shops",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CYXWEP6ULUCCEX/hero/717911178cdc479e984fa8c284b68c43_1626153127994154445.jpeg",
+        "openingHours": "{}",
+        "score": 9547.861,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 5
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 9547.861,
+            "es_score": 0,
+            "generic_score": 0.5289653387419685,
+            "h": -0.004477259835648317,
+            "h2": 0.010777291395838376,
+            "h2_raw": 0.010777291395838376,
+            "h_raw": 0.010835575594502218,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.6211612903225806,
+            "s_raw": 0.7483870967741936
+          }
+        },
+        "Popularity": {
+          "pickupCount": 39,
+          "dropoffCount": 110
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "c67239ab-3e3f-478f-b415-bce82b61453d",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.1EPLHQU0CYTHB",
+        "location": {
+          "latitude": 1.2841536366923947,
+          "longitude": 103.85178853817143
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "#B1-20,#B1-21",
+        "l1": "Downtown Core",
+        "postcode": "048622",
+        "name": "CHICHA San Chen - Change Alley",
+        "address": "30 Raffles Quay Raffles Place, #B1-20,#B1-21, Singapore, 048622",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2CUKAU3SGNYTE/photos/6677f01813c34946bd6d63e58ed1c614_1658726703006484735.jpg",
+        "iconHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2CUKAU3SGNYTE/icons/025567457da14c84a7ff6a127663bbcb_1640684880597796568.jpeg",
+        "openingHours": "{\"friday\":[[\"10:30\",\"19:00\"]],\"monday\":[[\"10:30\",\"19:00\"]],\"thursday\":[[\"10:30\",\"19:00\"]],\"tuesday\":[[\"10:30\",\"19:00\"]],\"wednesday\":[[\"10:30\",\"19:00\"]]}",
+        "score": 14166.085,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 14166.085,
+            "es_score": 0,
+            "generic_score": 0.7327476260504161,
+            "h": -0.0008772823779193206,
+            "h2": 0.0021208915691376296,
+            "h2_raw": 0.0021208915691376296,
+            "h_raw": 0.0021231422505307855,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {
+          "dropoffCount": 1
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "f0734e52-544d-41b2-a9e8-9473cfd35768",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.2J0SAADKH0CNM",
+        "location": {
+          "latitude": 1.300177132,
+          "longitude": 103.8556351
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "B1-K11",
+        "postcode": "188024",
+        "state": "Singapore",
+        "name": "I Love Taimei - Bugis Junction",
+        "address": "230 Victoria Street, B1-K11, Singapore, 188024",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2VKLAC3NLNHNT/hero/5f0a2d252d2d47a696114df19e728257_1625204021743839971.jpg",
+        "homepageHref": "https://ilovetaimei.com/places/bugis-junction/",
+        "openingHours": "{}",
+        "score": 10973.039,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 10973.039,
+            "es_score": 0,
+            "generic_score": 0.731519372949309,
+            "h": -0.000010813357060609234,
+            "h2": 0.000026169447171940145,
+            "h2_raw": 0.000026169447171940145,
+            "h_raw": 0.000026169789594891657,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {
+          "pickupCount": 1
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "277d354b-44ac-4dcd-9645-eedb8d1bd4d0",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.1ZVHCN5L10CFM",
+        "location": {
+          "latitude": 1.2915452804469254,
+          "longitude": 103.8505320292112
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "#B2-K01",
+        "l1": "Downtown Core",
+        "postcode": "179105",
+        "name": "WOK HEY - Funan",
+        "address": "107 North Bridge Road, #B2-K01, Singapore, 179105",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2VKJ3U2C2JZTN/photos/ffb4327097234955bb4a1ecfdd627a46_1624972245886713132.jpeg",
+        "iconHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2VKJ3U2C2JZTN/icons/f653f436d8714475badf74d00bdef0ce_1624972237078855688.jpeg",
+        "openingHours": "{\"friday\":[[\"11:00\",\"21:20\"]],\"monday\":[[\"11:00\",\"21:10\"]],\"saturday\":[[\"11:00\",\"21:10\"]],\"sunday\":[[\"11:00\",\"21:10\"]],\"thursday\":[[\"11:00\",\"21:00\"]],\"tuesday\":[[\"11:00\",\"21:10\"]],\"wednesday\":[[\"11:00\",\"21:10\"]]}",
+        "score": 6833.2793,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 6833.2793,
+            "es_score": 0,
+            "generic_score": 0.7315040168591977,
+            "h": 0,
+            "h2": 0,
+            "h2_raw": 0,
+            "h_raw": 0,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {}
+      }
+    ]
+  },
+  {
+    "uuid": "bf292823-fefe-484f-a665-1fe22f0405ee",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.36FH2YA9L0KZE",
+        "location": {
+          "latitude": 1.289112054,
+          "longitude": 103.8477698
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "#01-01",
+        "postcode": "059383",
+        "state": "Singapore",
+        "name": "Song Fa Bak Kut Teh",
+        "address": "11 New Bridge Road, #01-01, Singapore, 059383",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CYXWEP6ULUCCEX/hero/717911178cdc479e984fa8c284b68c43_1626153127994154445.jpeg",
+        "openingHours": "{}",
+        "score": 23609.426,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 1
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 23609.426,
+            "es_score": 0,
+            "generic_score": 0.603731899173529,
+            "h": -0.4132,
+            "h2": 0.6931471805599453,
+            "h2_raw": 0.6931471805599453,
+            "h_raw": 1,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.422280701754386,
+            "s_raw": 0.5087719298245614
+          }
+        },
+        "Popularity": {
+          "pickupCount": 514,
+          "dropoffCount": 731
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "174d0036-da44-44a2-9b53-9a5a42f00790",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.0I3JHJG79PONU",
+        "location": {
+          "latitude": 1.2916398986687483,
+          "longitude": 103.85064630185201
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "#B1-01",
+        "l1": "Downtown Core",
+        "postcode": "179105",
+        "name": "Paradise Dynasty - Funan",
+        "address": "107 North Bridge Road North Bridge Center, #B1-01, Singapore, 179105",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-CYUTT6CDRUXXL6/photos/f38e1fa2989d430490e2d986bec50e54_1577068392228060023.jpeg",
+        "iconHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-CYUTT6CDRUXXL6/icons/bdea644f976d4f61a2a027ecb80141bd_1577068392132367725.png",
+        "openingHours": "{\"friday\":[[\"11:00\",\"21:15\"]],\"monday\":[[\"11:00\",\"21:15\"]],\"saturday\":[[\"10:30\",\"21:15\"]],\"sunday\":[[\"10:30\",\"21:15\"]],\"thursday\":[[\"11:00\",\"21:15\"]],\"tuesday\":[[\"11:00\",\"21:15\"]],\"wednesday\":[[\"11:00\",\"21:15\"]]}",
+        "score": 7132.5444,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 7132.5444,
+            "es_score": 0,
+            "generic_score": 0.7315768650978433,
+            "h": -0.000051302107582953096,
+            "h2": 0.00012415034622847849,
+            "h2_raw": 0.00012415034622847849,
+            "h_raw": 0.0001241580532017258,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {
+          "dropoffCount": 4
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "4fb6fe09-b22f-4b97-b70f-bb0f700cd3dd",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.2MN6RTQS82PR3",
+        "location": {
+          "latitude": 1.2913950387570527,
+          "longitude": 103.85024709090908
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "#B2-26",
+        "l1": "Downtown Core",
+        "postcode": "179105",
+        "name": "Sanook Kitchen - Funan Mall",
+        "address": "107 North Bridge Road North Bridge Center, #B2-26, Singapore, 179105",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2E3GCCFEEWXAN/photos/5585b3c3b9b9491cbf4acb63f4540e3d_1609933011550521206.jpeg",
+        "iconHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2E3GCCFEEWXAN/icons/b9bca1bec90140288d110404c68161cf_1609932972548055076.jpeg",
+        "openingHours": "{\"friday\":[[\"11:00\",\"21:30\"]],\"monday\":[[\"11:00\",\"21:30\"]],\"saturday\":[[\"11:00\",\"21:30\"]],\"sunday\":[[\"11:00\",\"21:30\"]],\"thursday\":[[\"11:00\",\"21:30\"]],\"tuesday\":[[\"11:00\",\"21:30\"]],\"wednesday\":[[\"11:00\",\"21:30\"]]}",
+        "score": 9130.188,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 9130.188,
+            "es_score": 0,
+            "generic_score": 0.7315222303638867,
+            "h": -0.000012825526895738274,
+            "h2": 0.000031039031584798835,
+            "h2_raw": 0.000031039031584798835,
+            "h_raw": 0.00003103951330043145,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {
+          "dropoffCount": 1
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "bb5f0fc5-3105-4ce1-a8c8-6696a0df2403",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.38LFMBM0EJHN5",
+        "location": {
+          "latitude": 1.2914432940603717,
+          "longitude": 103.85034534025522
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "#B1-35",
+        "l1": "Downtown Core",
+        "postcode": "179105",
+        "name": "Guzman Y Gomez - Funan",
+        "address": "107 North Bridge Road, #B1-35, Singapore, 179105",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-CZEUR7LAUCDEC2/photos/09f30c91cd9b49338ecd109a3b39de73_1589181890251919049.jpeg",
+        "iconHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-CZEUR7LAUCDEC2/icons/95863c3b0af749dcbdf3903ecc29e271_1589181877994261843.png",
+        "openingHours": "{\"friday\":[[\"10:30\",\"21:30\"]],\"monday\":[[\"10:30\",\"21:30\"]],\"saturday\":[[\"10:30\",\"21:30\"]],\"sunday\":[[\"10:30\",\"21:30\"]],\"thursday\":[[\"10:30\",\"21:30\"]],\"tuesday\":[[\"10:30\",\"21:30\"]],\"wednesday\":[[\"10:30\",\"21:30\"]]}",
+        "score": 10954.04,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 10954.04,
+            "es_score": 0,
+            "generic_score": 0.7315586544831497,
+            "h": -0.00003847658068721483,
+            "h2": 0.00009311420463923908,
+            "h2_raw": 0.00009311420463923908,
+            "h_raw": 0.00009311853990129435,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {
+          "dropoffCount": 3
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "31128490-d699-4bc8-8467-354037214f00",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.3CGJ4DEEGESN0",
+        "location": {
+          "latitude": 1.29106578346931,
+          "longitude": 103.85038604662
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "#B2-K03",
+        "l1": "Downtown Core",
+        "postcode": "179105",
+        "name": "Stuff'd - Funan",
+        "address": "107 North Bridge Road, #B2-K03, Singapore, 179105",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2VKLAC2MBT2NJ/photos/43dfeeb6919a48d4a8db95a9a93a0ac0_1625204021157211612.jpg",
+        "iconHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C2VKLAC2MBT2NJ/icons/764f2138545d47d49cb3025a17bd5bc7_1624976167760968066.jpeg",
+        "openingHours": "{\"friday\":[[\"11:00\",\"21:30\"]],\"monday\":[[\"11:00\",\"21:30\"]],\"saturday\":[[\"11:00\",\"21:30\"]],\"sunday\":[[\"11:00\",\"21:00\"]],\"thursday\":[[\"11:00\",\"21:30\"]],\"tuesday\":[[\"11:00\",\"21:30\"]],\"wednesday\":[[\"11:00\",\"21:30\"]]}",
+        "score": 4170.4893,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 4170.4893,
+            "es_score": 0,
+            "generic_score": 0.7315222303638867,
+            "h": -0.000012825526895738274,
+            "h2": 0.000031039031584798835,
+            "h2_raw": 0.000031039031584798835,
+            "h_raw": 0.00003103951330043145,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {
+          "dropoffCount": 1
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "2ece280e-6576-4c63-b39b-0e5a74e64e33",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.28NCSWKKZLPKA",
+        "location": {
+          "latitude": 1.2914095000779184,
+          "longitude": 103.85050343309535
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "#02-01",
+        "l1": "Downtown Core",
+        "postcode": "179105",
+        "name": "Gong Cha - Funan",
+        "address": "107 North Bridge Road North Bridge Center, #02-01, Singapore, 179105",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-CYXWEP6ULUCCEX/photos/717911178cdc479e984fa8c284b68c43_1626153127994154445.jpeg",
+        "openingHours": "{\"friday\":[[\"11:30\",\"20:00\"]],\"monday\":[[\"11:30\",\"20:00\"]],\"saturday\":[[\"11:30\",\"20:00\"]],\"sunday\":[[\"11:30\",\"20:00\"]],\"thursday\":[[\"11:30\",\"20:00\"]],\"tuesday\":[[\"11:30\",\"20:00\"]],\"wednesday\":[[\"11:30\",\"20:00\"]]}",
+        "transportationType": 2,
+        "score": 5039.145,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 5039.145,
+            "es_score": 0,
+            "generic_score": 0.731540442905184,
+            "h": -0.000025651053791476548,
+            "h2": 0.00006207709977779658,
+            "h2_raw": 0.00006207709977779658,
+            "h_raw": 0.0000620790266008629,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {
+          "dropoffCount": 2
+        }
+      }
+    ]
+  },
+  {
+    "uuid": "dc64d576-113b-4078-b9cb-605db792ac6b",
+    "status": {
+      "code": "SUCCESS",
+      "message": "OK"
+    },
+    "places": [
+      {
+        "poiID": "IT.3BP2JNS7D3MSY",
+        "location": {
+          "latitude": 1.29106578346931,
+          "longitude": 103.85038604662
+        },
+        "country": "Singapore",
+        "city": "Singapore City",
+        "house": "#B1-24",
+        "l1": "Downtown Core",
+        "postcode": "179105",
+        "name": "TamJai SamGor Mixian - Funan Mall",
+        "address": "107 North Bridge Road, #B1-24, Singapore, 179105",
+        "businessType": "food and beverage",
+        "cityID": "6",
+        "countryID": "4",
+        "photoHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C3TGDCDXME3JVN/photos/88c3b6daf14249fe9e99ad5fa763ac40_1660619549437239344.jpeg",
+        "iconHref": "https://d1sag4ddilekf6.azureedge.net/Merchants/4-C3TGDCDXME3JVN/icons/456a531ffaee475cb6dceb4f0b75cbbb_1660619539976675836.jpeg",
+        "openingHours": "{\"friday\":[[\"12:00\",\"20:00\"]],\"monday\":[[\"12:00\",\"20:00\"]],\"saturday\":[[\"12:00\",\"20:00\"]],\"sunday\":[[\"12:00\",\"20:00\"]],\"thursday\":[[\"12:00\",\"20:00\"]],\"tuesday\":[[\"12:00\",\"20:00\"]],\"wednesday\":[[\"12:00\",\"20:00\"]]}",
+        "score": 19619.906,
+        "debug": {
+          "d1": "details",
+          "rankings": {
+            "es_rank": 0,
+            "generic_rank": 0
+          },
+          "scores": {
+            "d": -0.09849598314080221,
+            "d2": 0,
+            "d2_raw": 0,
+            "d_raw": 0.9820137900379085,
+            "es_raw": 19619.906,
+            "es_score": 0,
+            "generic_score": 0.7315040168591977,
+            "h": 0,
+            "h2": 0,
+            "h2_raw": 0,
+            "h_raw": 0,
+            "r": 0,
+            "r_raw": 0,
+            "s": 0.83,
+            "s_raw": 1
+          }
+        },
+        "Popularity": {}
+      }
+    ]
+  }
+]
